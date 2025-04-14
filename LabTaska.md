@@ -15,3 +15,11 @@ Task4
 4. You are working on a class Person with attributes age and name. Implement a constructor
 that ensures age is non-negative, and name is not empty. If any of these conditions are
 violated, the constructor should throw an exception.
+
+
+
+Task 5
+You are tasked with designing a class BankAccount with attributes like accountNumber,
+balance, and owner. The accountNumber should be auto-generated, balance should be
+initialized to zero, and owner should be set through the constructor. How would you
+implement the constructor for this class?
